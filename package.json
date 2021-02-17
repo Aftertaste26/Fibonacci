@@ -1,0 +1,12 @@
+{
+  "name": "fib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fibinacci.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "OSUNERO",
+  "license": "ISC"
+}
